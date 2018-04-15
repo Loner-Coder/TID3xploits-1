@@ -1,6 +1,6 @@
 <p align="middle"><img src='https://i.imgur.com/Og42xT8.png' /></p>
 
-#TID3xploits
+# TID3xploits
 A collection of exploits, cheats, tools, learning resources for the ultimate hacking.
 
 ### Structure:
